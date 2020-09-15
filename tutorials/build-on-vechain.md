@@ -11,20 +11,40 @@ tags:
 prev: false
 next: false
 ---
-#Build on VeChain
+# Build on VeChain
 
 ## Environment Network
 - [Running a network](https://docs.vechain.org/thor/get-started/installation.html)
 - [Start your own custom network](https://docs.vechain.org/thor/get-started/custom-network.html)
 
 ## Smart Contract development
+- [Network](https://docs.vechain.org/thor/get-started/installation.html)
+- Develop: compiler & devpack & devkit ? 
+- [IDE](https://vechainstore.com/ide/)
+- [Testnet Faucet](https://docs.vechain.org/others/#testnet-faucet)
+- Deploy ?
 
 ## Make your own token
+- Implementation ?
+- [Token registry](https://docs.vechain.org/others/#vethor-token)
 
 ## Make your NFT token
+- Implementation ?
+- VeChainThor wallet token registry ?
 
 ## dApp Development
+- [Intro](https://docs.vechain.org/tutorials/how-to-develop-a-dapp-on-vechain-1.html)
+- [Setup & Walk Around](https://docs.vechain.org/tutorials/how-to-integrate-VIP-191-2.html)
+- [Components & Coding](https://docs.vechain.org/tutorials/how-to-integrate-VIP-191-3.html)
+- [Connex](https://docs.vechain.org/connex/): Standard interface to connect VeChain apps with VeChain blockchain and user 
+- [App hub](https://apps.vechain.org/)
+- [Fee delegation](https://docs.vechain.org/thor/learn/fee-delegation.html#fee-delegation)
+- [Token list](https://docs.vechain.org/others/#token-list)
 
 ## Authority Masternode
+- [Apply first](https://vechain.typeform.com/to/pBQ9iM)
+- [Install](https://docs.vechain.org/thor/get-started/installation.html)
 
 ## Explorer
+- [VeChain Explore](https://explore.vechain.org/)
+- [VechainStats](https://vechainstats.com/)
